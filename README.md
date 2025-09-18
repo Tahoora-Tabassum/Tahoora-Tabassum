@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Tahoora
 
-<!--
-**Tahoora-Tabassum/Tahoora-Tabassum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!🚀
 
-Here are some ideas to get you started:
+I'm a passionate beginner in programming with experience in **Python, C, SQL, HTML, and CSS**. I enjoy building small projects, learning new technologies, and sharing my code with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills & Learning
+
+**Programming Languages:** Python, C, Java, SQL
+**Web Development:** HTML, CSS (basic)
+**Currently Exploring:** Data Science, Operating Syatems
+**Concepts:** Object-Oriented Programming, Basic Algorithms, Data Structures
+
+---
+
+## Projects
+Here are some projects I've worked on:
+1. **Bank Account Management** - Python project using classes and methods for deposit/withdraw functionality.
+
+---
+
+## Connect with me
+- LinkedIn: [Tahoora Tabassum](https://www.linkedin.com/in/tahoora-tabassum)
+- Email: ansariabubakar3022@gmail.com
+
+---
+
+If you like my word, feel free to **follow me** and **star** my repositories!
