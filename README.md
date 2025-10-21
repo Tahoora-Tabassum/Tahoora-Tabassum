@@ -20,7 +20,7 @@ I'm always exploring new tools and technologies to level up my skills!
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/) <!-- Replace with your actual LinkedIn URL -->
+- [LinkedIn](https://www.linkedin.com/) <!-- https://www.linkedin.com/in/tahoora-tabassum/ -->
 - (More links coming soon!)
 
 ## 🛠️ Projects
