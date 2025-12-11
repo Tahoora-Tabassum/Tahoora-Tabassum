@@ -29,7 +29,7 @@ I'm always exploring new tools and technologies to level up my skills!
 When you’re ready to feature your projects, simply add them here using markdown links:*
 
 ```markdown
-- [Project Name](project-link): short description
+- [mood-based-music-player](https://github.com/Tahoora-Tabassum/mood-based-music-player): short description
 ```
 
 ## 💡 Fun Fact
