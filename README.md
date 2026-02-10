@@ -2,13 +2,13 @@
 
 🎓 **Student | Computer Science Enthusiast**
 
-I'm currently a student diving deep into the world of Computer Science. My journey is all about learning, experimenting, and growing with new technologies. I'm passionate about expanding my knowledge and excited to participate in open source communities, especially programs like **Google Summer of Code (GSoC)**!
+I'm currently a student diving deep into the world of Computer Science. My journey is all about learning, experimenting, and growing with new technologies. I'm passionate about expanding my knowledge and excited to participate in open source communities!
 
 ## 🚀 What I'm Learning
 
 - **Languages:** C, Python, Java (basics)
 - **Web:** HTML, CSS, PHP (basics)
-- **Databases:** DBMS fundamentals
+- **Databases:** DBMS fundamentals, PostgressSQL
 
 I'm always exploring new tools and technologies to level up my skills!
 
@@ -16,7 +16,6 @@ I'm always exploring new tools and technologies to level up my skills!
 
 - Contribute to open source projects
 - Sharpen my programming fundamentals
-- Prepare for and participate in GSoC
 
 ## 📫 Connect with Me
 
@@ -25,17 +24,9 @@ I'm always exploring new tools and technologies to level up my skills!
 
 ## 🛠️ Projects
 
-*I’m still building my portfolio! Check back soon to see what I’ve been working on.  
-When you’re ready to feature your projects, simply add them here using markdown links:*
-
 ```markdown
 - [mood-based-music-player](https://github.com/Tahoora-Tabassum/mood-based-music-player): 🎶 Interactive music player that adapts to your mood.
 ```
-
-## 💡 Fun Fact
-
-I’m always eager to learn something new and believe collaboration is the key to growth!
-
 ---
 
 *Thanks for stopping by! If you’re working on open source or have advice for a beginner, let’s connect!*
