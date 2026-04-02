@@ -5,6 +5,7 @@ I am currently focused on strengthening my fundamentals in backend development a
 ---
 
 ## 🌐 Connect with me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tahoora-tabassum.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Tahoora-Tabassum)
 
