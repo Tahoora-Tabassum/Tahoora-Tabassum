@@ -1,11 +1,11 @@
 # 💫 About Me:
-### I am a Developer focused on Open Source and Software Engineering. 
-I enjoy solving complex problems, building efficient tools, and contributing to global communities. Currently diving deep into Scalable Systems and Data client maintenance.
+### Computer Science Student & Aspiring Open Source Contributor.
+I am currently focused on strengthening my fundamentals in backend development and exploring AI-driven accessibility tools.
 
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahoora-tabassum-91551231b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Tahoora-Tabassum)
 
 ---
@@ -26,24 +26,13 @@ I enjoy solving complex problems, building efficient tools, and contributing to 
 
 ---
 
-## 📊 GitHub Analytics:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Tahoora-Tabassum&show_icons=true&theme=tokyonight" alt="Tahoora's GitHub stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahoora-Tabassum&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📂 Current Projects & Focus:
-* **Real-time Sign Language to Voice Converter:** Developing an full stack software using Python to bridge communication gaps for the hearing impaired. (Active Development)
+* **Real-time Sign Language to Voice Converter:** Developing an AI-driven tool using Python to bridge communication gaps for the hearing impaired. (Active Development)
 * **Open Source:** Actively learning the Git/GitHub workflow to contribute to global ecosystems like MLH, LFX, and GSoC.
 * **Automation:** Exploring Python-based automation and logging for efficient data processing.
 
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it."</i>
+  <i>"Building technology to make the world more accessible."</i>
 </p>
