@@ -1,32 +1,49 @@
-# Hi there, I'm Tahoora Tabassum 👋
+# 💫 About Me:
+### I am a Developer focused on Open Source and Software Engineering. 
+I enjoy solving complex problems, building efficient tools, and contributing to global communities. Currently diving deep into Scalable Systems and Data client maintenance.
 
-🎓 **Student | Computer Science Enthusiast**
-
-I'm currently a student diving deep into the world of Computer Science. My journey is all about learning, experimenting, and growing with new technologies. I'm passionate about expanding my knowledge and excited to participate in open source communities!
-
-## 🚀 What I'm Learning
-
-- **Languages:** C, Python, Java (basics)
-- **Web:** HTML, CSS, PHP (basics)
-- **Databases:** DBMS fundamentals, PostgressSQL
-
-I'm always exploring new tools and technologies to level up my skills!
-
-## 🌱 Current Goals
-
-- Contribute to open source projects
-- Sharpen my programming fundamentals
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/) <!-- https://www.linkedin.com/in/tahoora-tabassum/ -->
-  
-
-## 🛠️ Projects
-
-```markdown
-- [mood-based-music-player](https://github.com/Tahoora-Tabassum/mood-based-music-player): 🎶 Interactive music player that adapts to your mood.
-```
 ---
 
-*Thanks for stopping by! If you’re working on open source or have advice for a beginner, let’s connect!*
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahoora-tabassum-91551231b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Tahoora-Tabassum)
+
+---
+
+## 💻 Tech Stack:
+
+### 🚀 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🛠️ Databases & Tools
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Tahoora-Tabassum&show_icons=true&theme=tokyonight" alt="Tahoora's GitHub stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahoora-Tabassum&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📂 Notable Contributions:
+* **Open Source:** Actively contributing to repository maintenance and technical documentation.
+* **Automation:** Developed Python-based logging systems for efficient data handling.
+* **Projects:** Specialized in interactive application design and database management.
+
+---
+
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i>
+</p>
