@@ -37,10 +37,10 @@ I enjoy solving complex problems, building efficient tools, and contributing to 
 
 ---
 
-## 📂 Notable Contributions:
-* **Open Source:** Actively contributing to repository maintenance and technical documentation.
-* **Automation:** Developed Python-based logging systems for efficient data handling.
-* **Projects:** Specialized in interactive application design and database management.
+## 📂 Current Projects & Focus:
+* **Real-time Sign Language to Voice Converter:** Developing an full stack software using Python to bridge communication gaps for the hearing impaired. (Active Development)
+* **Open Source:** Actively learning the Git/GitHub workflow to contribute to global ecosystems like MLH, LFX, and GSoC.
+* **Automation:** Exploring Python-based automation and logging for efficient data processing.
 
 ---
 
